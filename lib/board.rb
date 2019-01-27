@@ -1,1 +1,3 @@
-# Define the variable board below.
+var board = tic_tac_toe[]
+
+tic_tac_toe=[" ", " ", " ", " ", " ", " ", " ", " ", " "]
